@@ -78,8 +78,8 @@ int main()
             bezier(control_points, window);
         }
         if (control_points.size() == control_points_count) {
-            //naive_bezier(control_points, window);
-            //bezier(control_points, window);
+            naive_bezier(control_points, window);
+            bezier(control_points, window);
 
             cv::imshow("Bezier Curve", window);
             cv::imwrite("my_bezier_curve.png", window);

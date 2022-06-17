@@ -1,3 +1,0 @@
-/Users/developer/Program/CppCode/games101/Assignment3/build/CMakeFiles/Rasterizer.dir
-/Users/developer/Program/CppCode/games101/Assignment3/build/CMakeFiles/edit_cache.dir
-/Users/developer/Program/CppCode/games101/Assignment3/build/CMakeFiles/rebuild_cache.dir
